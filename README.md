@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=c박태준의%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=박태준의%20Github&fontSize=90)
 
 ![tjpark312's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjpark312&show_icons=true&theme=radical)
 
